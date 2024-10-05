@@ -1,0 +1,30 @@
+<div *ngIf="currentQuiz" class="container">
+  <mat-card class="card-container">
+    <mat-card-header [ngClass] = "currentQuiz.theme">
+      <div class="bloc-question">
+        <h3>{{ currentQuiz.question }}</h3>
+      </div>
+    </mat-card-header>
+    <mat-card-content>
+      <div
+        *ngFor="let choix of currentQuiz.choix;let i=index"
+        [ngClass]="{'selected': selectedReponse === choix, 'choix-option': true, 'currentQuiz.theme': true}"
+        (click)="selectReponse(choix)">
+        {{ choix }}
+      </div>
+      <div class="bloc-info" *ngIf="showInfo">
+        <p>{{ currentQuiz.info }}</p>
+      </div>
+      <div class="bloc-resultat" *ngIf="showResultat">
+        <p>{{ resultat }}</p>
+      </div>
+    </mat-card-content>
+    <mat-card-actions>
+      <div class="bloc-bouton">
+        <button (click)="validerReponse()" class="currentQuiz.theme">Valider</button>
+      </div>
+    
+
+    </mat-card-actions>
+  </mat-card>
+</div>

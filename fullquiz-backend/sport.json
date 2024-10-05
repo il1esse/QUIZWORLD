@@ -1,0 +1,588 @@
+[
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Roger Federer",
+        "Novak Djokovic",
+        "Pete Sampras",
+        "Rafael Nadal"
+      ],
+      "info": "Novak Djokovic détient le record du plus grand nombre de titres du Grand Chelem en simple messieurs avec 24 titres au 2024.",
+      "question": "Qui détient le record du plus grand nombre de titres du Grand Chelem en simple messieurs ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "tennis1"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Rafael Nadal",
+        "Mats Wilander",
+        "Novak Djokovic",
+        "Bjorn Borg"
+      ],
+      "info": "Rafael Nadal a remporté quatre titres consécutifs à Roland-Garros entre 2005 et 2008.",
+      "question": "Quel joueur a remporté quatre titres consécutifs à Roland-Garros entre 2005 et 2008 ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "tennis2"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Steffi Graf",
+        "Venus Williams",
+        "Serena Williams",
+        "Monica Seles"
+      ],
+      "info": "Serena Williams a remporté tous les tournois du Grand Chelem en simple à partir de 1999.",
+      "question": "Quelle joueuse a remporté tous les tournois du Grand Chelem en simple au moins une fois à partir de 1999 ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "tennis3"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Michael Chang",
+        "Stefan Edberg",
+        "John McEnroe",
+        "Boris Becker"
+      ],
+      "info": "Michael Chang est devenu le plus jeune vainqueur d'un tournoi du Grand Chelem en simple masculin à 17 ans, à Roland-Garros en 1989.",
+      "question": "Qui est le plus jeune vainqueur d’un tournoi du Grand Chelem en simple masculin ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "tennis4"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Pete Sampras",
+        "Bjorn Borg",
+        "Roger Federer",
+        "Novak Djokovic"
+      ],
+      "info": "Roger Federer détient le record de 8 titres à Wimbledon.",
+      "question": "Quel joueur a remporté 8 titres à Wimbledon, un record ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "tennis5"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Todd Woodbridge et Mark Woodforde",
+        "John McEnroe et Peter Fleming",
+        "Bob et Mike Bryan",
+        "Jacques Brugnon et Henri Cochet"
+      ],
+      "info": "Bob et Mike Bryan détiennent le record du plus grand nombre de titres en double messieurs dans l'ère Open.",
+      "question": "Quel duo a remporté le plus de titres en double messieurs dans l’ère Open ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "tennis6"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Serena Williams",
+        "Steffi Graf",
+        "Martina Navratilova",
+        "Margaret Court"
+      ],
+      "info": "Steffi Graf a réalisé le Golden Slam en 1988, remportant les quatre tournois du Grand Chelem ainsi qu'une médaille d'or olympique.",
+      "question": "Quelle joueuse a remporté un Golden Slam en 1988 ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "tennis7"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Andre Agassi",
+        "Ken Rosewall",
+        "Jimmy Connors",
+        "Roger Federer"
+      ],
+      "info": "Ken Rosewall est le joueur le plus âgé à avoir remporté un tournoi du Grand Chelem à 37 ans.",
+      "question": "Qui est le joueur le plus âgé à avoir remporté un tournoi du Grand Chelem ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "tennis8"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "Roland-Garros",
+        "Wimbledon",
+        "Open d'Australie",
+        "US Open"
+      ],
+      "info": "Wimbledon est le seul tournoi du Grand Chelem à se jouer sur gazon.",
+      "question": "Quel tournoi du Grand Chelem se joue sur gazon ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "tennis9"
+    },
+    {
+      "private": false,
+      "theme": "tennis",
+      "choix": [
+        "8 fois",
+        "14 fois",
+        "12 fois",
+        "10 fois"
+      ],
+      "info": "Rafael Nadal a remporté Roland-Garros à 14 reprises, un record.",
+      "question": "Combien de fois Rafael Nadal a-t-il remporté Roland-Garros (au 2024) ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "tennis10"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Kareem Abdul-Jabbar",
+        "Karl Malone",
+        "LeBron James",
+        "Kobe Bryant"
+      ],
+      "info": "LeBron James détient le record du plus grand nombre de points marqués en NBA avec plus de 38 000 points au 2024.",
+      "question": "Qui détient le record du plus grand nombre de points marqués en NBA (au 2024) ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "basket1"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Scottie Pippen",
+        "Shaquille O'Neal",
+        "Magic Johnson",
+        "Michael Jordan"
+      ],
+      "info": "Michael Jordan a remporté six titres NBA avec les Chicago Bulls dans les années 90.",
+      "question": "Quel joueur a remporté six titres NBA avec les Chicago Bulls dans les années 90 ?",
+      "niveau": "1",
+      "reponse": "4",
+      "id": "basket2"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "San Antonio Spurs",
+        "Golden State Warriors",
+        "Boston Celtics",
+        "Chicago Bulls"
+      ],
+      "info": "Les Boston Celtics et les Los Angeles Lakers détiennent chacun 17 titres NBA.",
+      "question": "Quelle équipe NBA a remporté 17 titres de champion, à égalité avec les Los Angeles Lakers ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "basket3"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Kobe Bryant",
+        "Michael Jordan",
+        "Wilt Chamberlain",
+        "Elgin Baylor"
+      ],
+      "info": "Wilt Chamberlain a marqué 100 points en un seul match NBA, un record encore inégalé.",
+      "question": "Quel joueur a marqué 100 points en un seul match NBA, un record ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "basket4"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Derrick Rose",
+        "LeBron James",
+        "Kobe Bryant",
+        "Luka Dončić"
+      ],
+      "info": "Derrick Rose est devenu le plus jeune joueur à remporter le titre de MVP en NBA à l'âge de 22 ans.",
+      "question": "Qui est le plus jeune joueur à avoir remporté le titre de MVP en NBA ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "basket5"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Larry Bird",
+        "Kareem Abdul-Jabbar",
+        "Magic Johnson",
+        "Michael Jordan"
+      ],
+      "info": "Larry Bird a remporté trois titres consécutifs de MVP en NBA de 1984 à 1986.",
+      "question": "Qui a remporté trois titres consécutifs de MVP en NBA (1984-1986) ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "basket6"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Giannis Antetokounmpo",
+        "Nikola Jokić",
+        "Dirk Nowitzki",
+        "LeBron James"
+      ],
+      "info": "Giannis Antetokounmpo, surnommé 'The Greek Freak', a remporté deux titres de MVP en NBA.",
+      "question": "Quel joueur est surnommé 'The Greek Freak' et a remporté deux MVP de la NBA ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "basket7"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Reggie Miller",
+        "Ray Allen",
+        "Stephen Curry",
+        "Klay Thompson"
+      ],
+      "info": "Stephen Curry détient le record du plus grand nombre de tirs à trois points réussis en NBA.",
+      "question": "Qui détient le record du plus grand nombre de tirs à trois points réussis en NBA ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "basket8"
+    },
+    {
+      "private": false,
+      "theme": "basket",
+      "choix": [
+        "Bill Russell",
+        "Magic Johnson",
+        "Michael Jordan",
+        "Kobe Bryant"
+      ],
+      "info": "Bill Russell détient le record du plus grand nombre de titres NBA remportés, avec 11 titres.",
+      "question": "Quel joueur a remporté le plus de titres NBA dans l’histoire (11 titres) ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "basket9"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Khabib Nurmagomedov",
+        "Jon Jones",
+        "Conor McGregor",
+        "Georges St-Pierre"
+      ],
+      "info": "Khabib Nurmagomedov est considéré comme l'un des plus grands combattants de MMA, invaincu avec un bilan de 29-0.",
+      "question": "Qui est considéré comme le plus grand combattant de MMA, invaincu et retraité avec un bilan de 29-0 ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "mma1"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Israel Adesanya",
+        "Daniel Cormier",
+        "Conor McGregor",
+        "Amanda Nunes"
+      ],
+      "info": "Conor McGregor a été le premier combattant à détenir simultanément deux titres dans deux catégories de poids différentes à l'UFC.",
+      "question": "Qui a été le premier combattant à détenir simultanément deux titres dans deux catégories de poids différentes à l’UFC ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "mma2"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Stipe Miocic",
+        "Fabricio Werdum",
+        "Cain Velasquez",
+        "Francis Ngannou"
+      ],
+      "info": "Stipe Miocic détient le record du plus grand nombre de défenses de titre consécutives en poids lourds UFC.",
+      "question": "Qui détient le record du plus grand nombre de défenses de titre consécutives en poids lourds UFC ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "mma3"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Ronda Rousey",
+        "Amanda Nunes",
+        "Valentina Shevchenko",
+        "Holly Holm"
+      ],
+      "info": "Amanda Nunes a été la première à détenir les ceintures des catégories poids coq et poids plume en UFC.",
+      "question": "Quelle combattante a été la première à détenir les ceintures des catégories poids coq et poids plume en UFC ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "mma4"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Mark Hunt",
+        "Cain Velasquez",
+        "Derrick Lewis",
+        "Francis Ngannou"
+      ],
+      "info": "Derrick Lewis détient le record du plus grand nombre de victoires par KO dans l'histoire de l'UFC.",
+      "question": "Quel combattant de MMA a le plus grand nombre de victoires par KO dans l'histoire de l'UFC ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "mma5"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Valentina Shevchenko",
+        "Kayla Harrison",
+        "Amanda Nunes",
+        "Ronda Rousey"
+      ],
+      "info": "Ronda Rousey a remporté la première médaille d’or olympique en judo avant de devenir une championne en MMA.",
+      "question": "Qui a remporté la première médaille d’or olympique en judo avant de devenir une championne en MMA ?",
+      "niveau": "1",
+      "reponse": "4",
+      "id": "mma6"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Chael Sonnen",
+        "Chris Weidman",
+        "Michael Bisping",
+        "Vitor Belfort"
+      ],
+      "info": "Chris Weidman a battu Anderson Silva en 2013 pour mettre fin à sa série de victoires en UFC.",
+      "question": "Quel combattant a battu Anderson Silva pour mettre fin à sa série de victoires en UFC ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "mma7"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Chuck Liddell",
+        "Daniel Cormier",
+        "Jon Jones",
+        "Tito Ortiz"
+      ],
+      "info": "Jon Jones est le premier champion poids mi-lourd de l’UFC à avoir défendu son titre à plus de 10 reprises.",
+      "question": "Qui est le premier champion poids mi-lourd de l’UFC à avoir défendu son titre à plus de 10 reprises ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "mma8"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Nate Diaz",
+        "Tony Ferguson",
+        "Max Holloway",
+        "Donald 'Cowboy' Cerrone"
+      ],
+      "info": "Donald 'Cowboy' Cerrone détient le record du plus grand nombre de bonus de performance en UFC.",
+      "question": "Quel combattant a remporté le plus de bonus de performance en UFC ?",
+      "niveau": "1",
+      "reponse": "4",
+      "id": "mma9"
+    },
+    {
+      "private": false,
+      "theme": "mma",
+      "choix": [
+        "Donald 'Cowboy' Cerrone",
+        "Jim Miller",
+        "Georges St-Pierre",
+        "Anderson Silva"
+      ],
+      "info": "Jim Miller détient le record du plus grand nombre de victoires en UFC au 2024.",
+      "question": "Qui est le combattant avec le plus de victoires en UFC (au 2024) ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "mma10"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Cristiano Ronaldo",
+        "Michel Platini",
+        "Johan Cruyff",
+        "Lionel Messi"
+      ],
+      "info": "Lionel Messi détient le record du plus grand nombre de Ballons d’Or avec 8 titres au 2024.",
+      "question": "Qui détient le record du plus grand nombre de Ballons d’Or remportés (au 2024) ?",
+      "niveau": "1",
+      "reponse": "4",
+      "id": "football1"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Ronaldo Nazário",
+        "Miroslav Klose",
+        "Pelé",
+        "Gerd Müller"
+      ],
+      "info": "Miroslav Klose détient le record du plus grand nombre de buts en Coupe du Monde de la FIFA avec 16 buts.",
+      "question": "Quel joueur a marqué le plus de buts en Coupe du Monde de la FIFA ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football2"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Italie",
+        "Uruguay",
+        "Argentine",
+        "Brésil"
+      ],
+      "info": "L'Uruguay a remporté la première Coupe du Monde de football en 1930.",
+      "question": "Quel pays a remporté la première Coupe du Monde de football en 1930 ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football3"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "FC Barcelone",
+        "Real Madrid",
+        "AC Milan",
+        "Bayern Munich"
+      ],
+      "info": "Le Real Madrid a remporté le plus de Ligues des Champions, avec 14 titres au 2024.",
+      "question": "Quel club a remporté le plus de Ligues des Champions ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football4"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Zinedine Zidane",
+        "Diego Maradona",
+        "Pelé",
+        "David Beckham"
+      ],
+      "info": "Diego Maradona a marqué le célèbre 'but de la main de Dieu' lors de la Coupe du Monde 1986.",
+      "question": "Qui a marqué le but de la main de Dieu lors de la Coupe du Monde 1986 ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football5"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Robert Lewandowski",
+        "Karim Benzema"
+      ],
+      "info": "Cristiano Ronaldo détient le record du plus grand nombre de buts en une seule saison de Ligue des Champions avec 17 buts.",
+      "question": "Quel joueur a marqué le plus de buts en une seule saison de Ligue des Champions (17 buts) ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football6"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Italie",
+        "Pays-Bas",
+        "Espagne",
+        "Brésil"
+      ],
+      "info": "L'Espagne a remporté la Coupe du Monde 2010 en Afrique du Sud, battant les Pays-Bas en finale.",
+      "question": "Quelle équipe a remporté la Coupe du Monde 2010 en Afrique du Sud ?",
+      "niveau": "1",
+      "reponse": "3",
+      "id": "football7"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Alan Shearer",
+        "Thierry Henry",
+        "Wayne Rooney",
+        "Sergio Agüero"
+      ],
+      "info": "Alan Shearer est le meilleur buteur de l’histoire de la Premier League avec 260 buts.",
+      "question": "Qui est le meilleur buteur de l’histoire de la Premier League ?",
+      "niveau": "1",
+      "reponse": "1",
+      "id": "football8"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Kylian Mbappé",
+        "Delio Onnis",
+        "Zlatan Ibrahimović",
+        "Edinson Cavani"
+      ],
+      "info": "Delio Onnis est le meilleur buteur de l’histoire de la Ligue 1 française avec 299 buts.",
+      "question": "Quel joueur est le meilleur buteur de l’histoire de la Ligue 1 française ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football9"
+    },
+    {
+      "private": false,
+      "theme": "football",
+      "choix": [
+        "Portugal",
+        "Grèce",
+        "Italie",
+        "Espagne"
+      ],
+      "info": "La Grèce a remporté l'Euro 2004 en battant le pays hôte, le Portugal, en finale.",
+      "question": "Quel pays a remporté la Coupe d’Europe des Nations (Euro) en 2004, en battant le pays hôte en finale ?",
+      "niveau": "1",
+      "reponse": "2",
+      "id": "football10"
+    }
+  ]
+  
